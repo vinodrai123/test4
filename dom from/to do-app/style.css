@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color: #0ef20e;
+}
+#task-input{
+    margin-left: 230px;
+    width: 50%;
+    background-color: #ef1;
+    color: #e1234e;
+
+}
+
+#add-task:hover{
+    background-color: aqua;
+    color: red;
+}
+#add-task {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+  .delete-task{
+    margin-left: 200px;
+    background-color: #0ef20e;
+    color: black;
+
+  }
+  #task-list{
+    margin-left: 300px;
+    background-color: #e1234e;
+    width: 30%;
+    margin-top: 5px;
+  }
